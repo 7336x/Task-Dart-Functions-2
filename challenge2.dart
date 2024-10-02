@@ -30,12 +30,12 @@ void greet(String name)
  * isOdd(7) -> true
  * isOdd(10) -> false
  */
-dynamic isOdd(int n)
+bool isOdd(int n)
  {
   if (n%2 == 1)
   {
     return true;
-  } else ()
+  } else 
   {
      return false;
   };
